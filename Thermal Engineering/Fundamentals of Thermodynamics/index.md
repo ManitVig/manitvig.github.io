@@ -1,3 +1,9 @@
+---
+title: Fundamentals of Thermodynamics
+parent: Thermal Engineering
+nav_order: 1
+---
+
 # Fundamentals of Thermodynamics  
 ##   
 ## Introduction  
