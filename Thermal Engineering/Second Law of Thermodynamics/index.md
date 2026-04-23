@@ -1,3 +1,9 @@
+---
+title: Second Law of Thermodynamics
+parent: Thermal Engineering
+nav_order: 2
+---
+
 # Second Law of Thermodynamics  
   
 According to the first law of thermodynamics, the net amount of energy is always conserved. Thus it can help us predict the effects of a process but it doesn’t talk about the extent of the process at all. If we only follow the first law, then energy would be able to flow in any direction, in any amount, to any extent yet it is observed that processes generally happen in a certain direction only and only to a limit.  

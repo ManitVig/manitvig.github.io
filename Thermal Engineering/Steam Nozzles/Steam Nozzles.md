@@ -1,3 +1,9 @@
+---
+title: Steam Nozzles
+parent: Thermal Engineering
+nav_order: 8
+---
+
 # Steam Nozzles  
 Nozzles are thermodynamic devices that convert steam enthalpy into kinetic energy. This is achieved by expansion of steam inside the nozzle due to geometry of the structure.  
   

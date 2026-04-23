@@ -1,3 +1,9 @@
+---
+title: Analysis of Closed Systems
+parent: Thermal Engineering
+nav_order: 3
+---
+
 # Analysis of Closed Systems  
   
 ## First law of thermodynamics  

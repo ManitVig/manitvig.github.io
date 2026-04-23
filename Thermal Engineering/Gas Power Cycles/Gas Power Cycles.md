@@ -1,3 +1,9 @@
+---
+title: Gas Power Cycles
+parent: Thermal Engineering
+nav_order: 9
+---
+
 # Gas Power Cycles  
 Two important applications of thermodynamics is **power generation** and **refrigeration**. Both are usually accomplished using systems that operate on a thermodynamic cycles.  
   

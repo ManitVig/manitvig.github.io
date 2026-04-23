@@ -1,3 +1,9 @@
+---
+title: SFEE Analysis of Thermodynamic Devices
+parent: Thermal Engineering
+nav_order: 5
+---
+
 # SFEE Analysis of Thermodynamic Devices  
 Apply the steady flow energy equation to the following thermodynamic devices.  
 1. Boiler  

@@ -1,3 +1,9 @@
+---
+title: Steam Turbines
+parent: Thermal Engineering
+nav_order: 7
+---
+
 # Steam Turbines  
   
 Steam turbine is a thermodynamic device, used as the primary-mover, in which the enthalpy of the steam is converted into kinetic energy and then into mechanical work by rotation of the turbine shaft.  

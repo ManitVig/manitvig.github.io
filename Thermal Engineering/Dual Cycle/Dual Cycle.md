@@ -1,3 +1,9 @@
+---
+title: Dual Cycle 
+parent: Thermal Engineering
+nav_order: 12
+---
+
 # Dual Cycle  
 In modern high speed engines, a combination of the Otto and diesel cycles is used called **the dual cycle **or **the mixed cycle. **The fuel is injected into the combustion chamber much sooner than the basic diesel engine, during the compression stroke itself, this causes the fuel to ignite leading to a combustion process that is almost constant volume.  
   

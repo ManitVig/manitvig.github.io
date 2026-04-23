@@ -1,3 +1,9 @@
+---
+title: Analysis of Control Volumes
+parent: Thermal Engineering
+nav_order: 4
+---
+
 # Analysis of Control Volumes  
 Control volumes are systems that allow flow of both energy and mass, thus for these systems conservation of mass and first law both become important for analysis.  
   

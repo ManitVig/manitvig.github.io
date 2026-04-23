@@ -1,3 +1,9 @@
+---
+title: Vapour Power Cycle
+parent: Thermal Engineering
+nav_order: 6
+---
+
 # Vapour Power Cycle  
 Vapour power cycles are thermodynamic process cycles designed to efficiently extract energy and/or work from two-phase systems involving a phase change.  
   

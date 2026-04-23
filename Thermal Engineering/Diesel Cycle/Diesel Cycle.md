@@ -1,3 +1,9 @@
+---
+title: Diesel Cycle 
+parent: Thermal Engineering
+nav_order: 11
+---
+
 # Diesel Cycle  
 The diesel cycle is the air-standard cycle used to model **compression ignition (CI) engines. **CI engines do not have a spark plug and run mostly with air instead of air-fuel mixture throughout the cycle. They have very high compression ratios. High enough to reach self-ignition temperature of fuel on compression. Fuel is injected into the compressed and hot air in these engines, which ignites instantly causing expansion and the power stroke.  
   

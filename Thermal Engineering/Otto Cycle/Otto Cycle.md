@@ -1,3 +1,9 @@
+---
+title: Otto Cycle 
+parent: Thermal Engineering
+nav_order: 10
+---
+
 # Otto Cycle  
 The Otto cycle is the air-standard cycle, used to model **spark-ignition (SI) engines. **In SI Engines, an external spark from a spark plug is used to ignite the fuel in the air-fuel mixture supplied by a carburetor.  
   

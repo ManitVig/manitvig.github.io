@@ -5,7 +5,6 @@ nav_order: 1
 ---
 
 # Fundamentals of Thermodynamics  
-##   
 ## Introduction  
 **Thermodynamics** is derived from the Greek word therme (heat). It began as the study of heat energy and systems related to it.  
   

@@ -1,3 +1,9 @@
+---
+title: Gas Turbine Cycle (Brayton Cycle)   
+parent: Thermal Engineering
+nav_order: 13
+---
+
 # Gas Turbine Cycle (Brayton Cycle)  
 The brayton cycle is the air-standard cycle used in run gas turbine power plants. Gas turbines usually operate in an open cycle, drawing in fresh atmospheric air and exhausting combustion products in every iteration of the cycle, though they can be modeled as a closed cycle system using the air-standard assumptions.   
 ![Combustion X](Attachments/7A2629FE-82B1-4CFC-A40F-06BB5ACF2E1A.png)  

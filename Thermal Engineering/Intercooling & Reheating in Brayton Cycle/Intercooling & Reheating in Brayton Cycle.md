@@ -1,3 +1,9 @@
+---
+title: Intercooling & Reheating in Brayton Cycle   
+parent: Thermal Engineering
+nav_order: 14
+---
+
 # Intercooling & Reheating in Brayton Cycle  
   
 ## Intercooling   
