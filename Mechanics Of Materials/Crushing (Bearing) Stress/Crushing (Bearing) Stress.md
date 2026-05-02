@@ -1,3 +1,8 @@
+---
+title: Crushing (Bearing) Stress
+parent: Mechanics of Materials
+nav_order: 9
+---
 # Crushing (Bearing) Stress  
   
 Crushing (bearing) stress is the compressive stress developed at the contact interface between two members, typically where a pin/bolt/rivet presses against the wall of a hole.  

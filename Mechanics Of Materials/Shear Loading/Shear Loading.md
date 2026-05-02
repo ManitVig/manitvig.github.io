@@ -1,3 +1,8 @@
+---
+title: Shear Loading
+parent: Mechanics of Materials
+nav_order: 8
+---
 # Shear Loading  
 As covered in the introductory section a shear load is one that causes adjacent planes of the material to slide over each other. It acts parallel to the plane it deforms.  
   
