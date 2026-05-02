@@ -6,7 +6,7 @@ nav_order: 4
 
 # Area Moment of Inertia  
   
-As seen in case of [axial loading](/Mechanics%20Of%20Materials/Axial%20Loading/Axial%20Loading.html) the effect of the load applied on a material is dependent upon the area over which it acts. Axial loading forms the most simplest case of a load that a member can experience, hence the effect is determined just be the cross-sectional area since the deformations observed are mostly longitudinal and hence the cross-sectional area isn’t much deformed. Effect of poisson ration can be ignored in most cases since it’s usually quite small.  
+As seen in case of axial loading the effect of the load applied on a material is dependent upon the area over which it acts. Axial loading forms the most simplest case of a load that a member can experience, hence the effect is determined just be the cross-sectional area since the deformations observed are mostly longitudinal and hence the cross-sectional area isn’t much deformed. Effect of poisson ration can be ignored in most cases since it’s usually quite small.  
   
 In case of more complex loadings though like bending, torsion, transverse, or combined the deformation is quite complex and hence the resistance to these loads in dependent on the distribution of cross-sectional area of the member around some axis along which the load acts.   
   
