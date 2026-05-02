@@ -1,5 +1,5 @@
 ---
-title: Axial Loading
+title: Area Moment of Inertia
 parent: Mechanics of Materials
 nav_order: 4
 ---
